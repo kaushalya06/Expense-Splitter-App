@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qDli3lFPMDPb3j2iix0bzJzlaMLZuQh52Au4ChcW5dw=",
+  "Source": "ExpenseSplitterAppBackend",
+  "BasePath": "_content/ExpenseSplitterAppBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
